@@ -1,0 +1,50 @@
+# Maintainer roster for k3s
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+maintainers:
+  - project_id: "k3s"
+    org: "k3s-io"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - feiskyer
+          - haircommander
+          - saschagrunert
+          - sig-node-approvers
+          - Random-Liu
+          - mikebrow
+          - abhi
+          - philips (Brandon Philips)
+          - rajatchopra
+          - tomdee
+          - sig-etcd-chairs
+          - sig-etcd-tech-leads
+          - spzala
+          - dims
+          - pohly
+          - thockin
+          - akihirosuda
+          - cyphar
+          - kolyshkin
+          - lifubang
+          - mrunalp
+          - rata
+          - thajeztah
+      - name: "reviewers"
+        members:
+          - Random-Liu
+          - mikebrow
+          - abhi
+          - yanxuean
+          - miaoyq
+          - ksubrmnn (Kalya Subramanian)
+          - madhanrm (Madhan Raj Mookkandy)
+          - rajatchopra (Rajat Chopra)
+          - Oats87 (Chris Kim)
+          - luthermonson (Luther Monson)
+          - AleksandrNull (Aleksandr Shaposhnikov)
+          - manuelbuil (Manuel Buil)
+          - harshanarayana
+          - mengjiao-liu
+          - pohly

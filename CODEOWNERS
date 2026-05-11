@@ -1,0 +1,3 @@
+# CODEOWNERS for .project metadata repository
+# Changes to project metadata require maintainer review.
+* @feiskyer @haircommander @saschagrunert @sig-node-approvers @Random-Liu @mikebrow @abhi @philips (Brandon Philips) @rajatchopra @tomdee @sig-etcd-chairs @sig-etcd-tech-leads @spzala @dims @pohly @thockin @akihirosuda @cyphar @kolyshkin @lifubang @mrunalp @rata @thajeztah 

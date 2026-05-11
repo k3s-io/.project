@@ -1,0 +1,65 @@
+# .project metadata for k3s
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+schema_version: "1.0.0"
+slug: "k3s"
+name: "k3s"
+description: "Lightweight Kubernetes"
+type: "project"
+project_lead: "feiskyer" # TODO: AUTO-DETECTED — please verify
+cncf_slack_channel: "#gh-light-mode-only" # TODO: AUTO-DETECTED — please verify
+# Also detected: "#gh-dark-mode-only", "#sig-node", "#containerd", "#sig-etcd", "#cri-dockerd", "#working-groups", "#readme", "#meeting-time", "#C0MP69YF4", "#toc", "#C04LTPB6Z0V", "#runwasi", "#C0196ULKX8S", "#k3s" — please verify the correct channel
+
+maturity_log:
+  - phase: "sandbox"
+    date: "2020-08-19T00:00:00Z"
+    issue: "https://github.com/cncf/toc/pull/955" # TODO: AUTO-DETECTED — please verify
+
+repositories:
+  - "https://github.com/k3s-io/k3s"
+
+website: "https://k3s.io"
+
+artwork: "https://landscape.cncf.io/logos/k3s.svg"
+
+adopters:
+  path: "https://github.com/k3s-io/k3s/blob/main/ADOPTERS.md"
+
+
+package_managers: # AUTO-DETECTED — please verify
+  go: "github.com/k3s-io/k3s"
+  npm: "k-3-s-docs"
+
+
+security:
+  policy:
+    path: "https://github.com/k3s-io/k3s/blob/main/.github/SECURITY.md"
+  contact:
+    advisory_url: "https://github.com/k3s-io/k3s/security/advisories/new"
+
+governance:
+  contributing:
+    path: "https://github.com/k3s-io/k3s/blob/main/CONTRIBUTING.md"
+  code_of_conduct:
+    path: "https://github.com/k3s-io/k3s/blob/main/CODE_OF_CONDUCT.md"
+
+legal:
+  license:
+    path: "https://github.com/k3s-io/k3s/blob/main/LICENSE"
+  identity_type:
+    has_dco: true # AUTO-DETECTED — please verify
+    has_cla: false # AUTO-DETECTED — please verify
+    dco_url:
+      path: "https://developercertificate.org/"
+
+documentation:
+  readme:
+    path: "https://github.com/k3s-io/k3s/blob/main/README.md"
+
+landscape:
+  category: "Platform"
+  subcategory: "Certified Kubernetes - Distribution"
+
+# CLOMonitor Score: 93/100
+# Documentation: 100 | License: 100 | Best Practices: 100 | Security: 68
