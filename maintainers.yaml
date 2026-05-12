@@ -8,43 +8,23 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
-          - feiskyer
-          - haircommander
-          - saschagrunert
-          - sig-node-approvers
-          - Random-Liu
-          - mikebrow
-          - abhi
-          - philips (Brandon Philips)
-          - rajatchopra
-          - tomdee
-          - sig-etcd-chairs
-          - sig-etcd-tech-leads
-          - spzala
-          - dims
-          - pohly
-          - thockin
-          - akihirosuda
-          - cyphar
-          - kolyshkin
-          - lifubang
-          - mrunalp
-          - rata
-          - thajeztah
-      - name: "reviewers"
+          - brandond
+          - briandowns
+          - brooksn
+          - caroline-suse-rancher
+          - cwayne18
+          - dereknola
+          - galal-hussein
+          - manuelbuil
+          - matttrach
+          - mdrahman-suse
+          - Oats87
+          - rancher-max
+          - rbrtbnfgl
+          - ShylajaDevadiga
+          - thomasferrandiz
+          - VestigeJ
+      - name: "community-management"
         members:
-          - Random-Liu
-          - mikebrow
-          - abhi
-          - yanxuean
-          - miaoyq
-          - ksubrmnn (Kalya Subramanian)
-          - madhanrm (Madhan Raj Mookkandy)
-          - rajatchopra (Rajat Chopra)
-          - Oats87 (Chris Kim)
-          - luthermonson (Luther Monson)
-          - AleksandrNull (Aleksandr Shaposhnikov)
-          - manuelbuil (Manuel Buil)
-          - harshanarayana
-          - mengjiao-liu
-          - pohly
+          - OrlinVasilev
+          - robertsirc
