@@ -48,7 +48,7 @@ legal:
     path: "https://github.com/k3s-io/k3s/blob/main/LICENSE"
   identity_type:
     has_dco: true
-    has_cla: false
+    has_cla: true
     dco_url:
       path: "https://developercertificate.org/"
 
