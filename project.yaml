@@ -7,14 +7,13 @@ slug: "k3s"
 name: "k3s"
 description: "Lightweight Kubernetes"
 type: "project"
-project_lead: "feiskyer" # TODO: AUTO-DETECTED — please verify
-cncf_slack_channel: "#gh-light-mode-only" # TODO: AUTO-DETECTED — please verify
-# Also detected: "#gh-dark-mode-only", "#sig-node", "#containerd", "#sig-etcd", "#cri-dockerd", "#working-groups", "#readme", "#meeting-time", "#C0MP69YF4", "#toc", "#C04LTPB6Z0V", "#runwasi", "#C0196ULKX8S", "#k3s" — please verify the correct channel
+project_lead: "cwayne18"
+cncf_slack_channel: "#k3s"
 
 maturity_log:
   - phase: "sandbox"
     date: "2020-08-19T00:00:00Z"
-    issue: "https://github.com/cncf/toc/pull/955" # TODO: AUTO-DETECTED — please verify
+    issue: "https://github.com/cncf/toc/pull/514"
 
 repositories:
   - "https://github.com/k3s-io/k3s"
@@ -48,8 +47,8 @@ legal:
   license:
     path: "https://github.com/k3s-io/k3s/blob/main/LICENSE"
   identity_type:
-    has_dco: true # AUTO-DETECTED — please verify
-    has_cla: false # AUTO-DETECTED — please verify
+    has_dco: true
+    has_cla: true
     dco_url:
       path: "https://developercertificate.org/"
 
