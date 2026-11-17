@@ -21,7 +21,7 @@ repositories:
 
 website: "https://k3s.io"
 
-artwork: "https://landscape.cncf.io/logos/k3s.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/k3s"
 
 adopters:
   path: "https://github.com/k3s-io/k3s/blob/main/ADOPTERS.md"
